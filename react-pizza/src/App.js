@@ -1,5 +1,6 @@
-import './App.css';
+
 import React from 'react'
+
 
 
 function App() {
@@ -107,7 +108,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -144,7 +145,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -181,7 +182,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -218,7 +219,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -255,7 +256,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -292,7 +293,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -329,7 +330,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -366,7 +367,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
@@ -403,7 +404,7 @@ function App() {
       <li>традиционное</li>
     </ul>
     <ul>
-      <li class="active">26 см.</li class="active">
+      <li class="active">26 см.</li>"active">
       <li>30 см.</li>
       <li>40 см.</li>
     </ul>
